@@ -25,7 +25,47 @@
 ![Liver Cancer Risk Prediction Using Clinical Features](https://github.com/baypogiMD/Liver_Cancer)<br/>
 ![Blood Glucose Missingness Analysis](https://github.com/baypogiMD/Blood_Glucose_Analysis)<br/>
 ![World Health Indicators Analysis (1999-2023)](https://github.com/baypogiMD/World_Health_Indicators_Analysis)<br/>
-
-
-
+![Hair Health Prediction & Risk Analysis](https://github.com/baypogiMD/Hair_Health_Prediction_and_Risk_Analysis)<br/>
+![Infectious and Non-Communicable Disease Analysis](https://github.com/baypogiMD/Infectious_and_Non-Communicable_Disease_Analysis)<br/>
+![Infectious Diseases in China: Data Analysis and Modeling](https://github.com/baypogiMD/Infectious_Diseases_in_China)<br/>
+![Healthcare Symptoms – Disease Classification](https://github.com/baypogiMD/Healthcare_Symptoms_Disease_Classification)<br/>
+![Health & Fitness Analytics Project](https://github.com/baypogiMD/Fitness_Tracking_Analytics)<br/>
+![Dengue Virus Envelope Inhibitors designed using Artificial Intelligence and evaluated In-Silico](https://github.com/baypogiMD/ICCERHC_2026_DengueAI)<br/>
+![Taxol Drug Resistance in Breast Cancer Cell Lines](https://github.com/baypogiMD/Taxol_Drug_Resistance_Cell_Lines_in_Breast_Cancer)<br/>
+![Testicular Cancer Clinicogenomic Analysis](https://github.com/baypogiMD/Testicular_Cancer_Germ_Cell_Tumor_Cohort)<br/>
+![Leukemia (ALL vs AML) Gene Expression Classification](https://github.com/baypogiMD/Leukemia_Gene_expression_dataset)<br/>
+![Brain Cancer Gene Expression](https://github.com/baypogiMD/Brain_Cancer_Gene_Expression_Curated_Microarray_Database)<br/>
+![Ovarian Cancer Risk Prediction](https://github.com/baypogiMD/Predict_Ovarian_Cancer_SQL_Machine_Learning)<br/>
+![Diabetes Risk Factors](https://github.com/baypogiMD/Diabetes_Risk_Factors)<br/>
+![MIMIC-IV Cleaned Medical Transcripts – Clinical NLP Analysis](https://github.com/baypogiMD/MIMIC-IV_Clinical_NLP_Analysis)<br/>
+![Clinical Survival Analysis: Discovery & Validation Cohorts](https://github.com/baypogiMD/Clinical_Survival_Analysis)<br/>
+![Health Insurance Marketplace Analysis](https://github.com/baypogiMD/Health_Insurance_Marketplace_Analysis)<br/>
+![UnitedHealthcare Stock Analysis](https://github.com/baypogiMD/UnitedHealthcare_Stock_Analysis)<br/>
+![Health Insurance Claims Fraud Detection](https://github.com/baypogiMD/Fraud_Detection_in_Health_Insurance_Claims)<br/>
+![MASSP Health Insurance Prediction](https://github.com/baypogiMD/MASSP_Health_Insurance_Prediction)<br/>
+![Insurance Cross‑Sell Analytics](https://github.com/baypogiMD/Datadash_Insurance_cross-sell_prediction_and_business_insight)<br/>
+![Hospital Inpatient Discharges Analysis](https://github.com/baypogiMD/Hospital_Inpatient_Discharges_Analysis)<br/>
+![Health Insurance Portfolio Analytics](https://github.com/baypogiMD/Mendeley_Health-Insurance_Portfolio_Analysis)<br/>
+![Healthcare Insurance Cost Analysis](https://github.com/baypogiMD/Healthcare_Insurance_Cost_Analysis)<br/>
+![Philippine Air Carriers Flight Records Analysis](https://github.com/baypogiMD/Air_Carriers_Flight_Records_Analysis-Philippines)<br/>
+![Pollution-Related Deaths in Asia – Data Analysis](https://github.com/baypogiMD/Pollution-Related_Deaths_in_Asia)<br/>
+![Remittance to the Philippines – Data Analytics & Modeling](https://github.com/baypogiMD/Remittances_to_the_Philippines)<br/>
+![Philippine Public School Teachers and Students Analysis](https://github.com/baypogiMD/Philippine_Public_School_Teachers_and_Students_Analysis)<br/>
+![Metro Manila Flood Prediction](https://github.com/baypogiMD/MetroManila_Flood_Prediction_2016-2020)<br/>
+![Jollibee Store Location Analytics](https://github.com/baypogiMD/Jollibee_Business_Intelligence_and_Analytics)<br/>
+![Urinalysis Data Analytics and Clinical Risk Modeling](https://github.com/baypogiMD/Urinalysis_data_analysis)<br/>
+![Melanoma versus Nonmelanoma Prediction](https://github.com/baypogiMD/MelanomaENV2)<br/>
+![Kruskal-Wallis H test](https://github.com/baypogiMD/Kruskal-Wallis_H_test)<br/>
+![Predicting-Dengue-Philippines](https://github.com/baypogiMD/Predicting-Dengue-Philippines)<br/>
+![BARMM Data Challenge](https://github.com/baypogiMD/BARMM_Data_Challenge)<br/>
+![Liver Series](https://github.com/baypogiMD/Liver_Series)<br/>
+![Survival Analysis](https://github.com/baypogiMD/Survival_Analysis)<br/>
+![Chi-Square test](https://github.com/baypogiMD/Chi_Square_test)<br/>
+![Fisher Exact test](https://github.com/baypogiMD/Fisher_exact_test)<br/>
+![Mann-Whitney-U-test](https://github.com/baypogiMD/Mann_Whitney_U_test)<br/>
+![QQplot Shapiro-Wilk Bartlett Levene test](https://github.com/baypogiMD/QQplot_Shapiro-Wilk_Bartlett_Levene_test)<br/>
+![Analysis of Variance (ANOVA)](https://github.com/baypogiMD/analysis-of-variance-ANOVA)<br/>
+![Student t-Test](https://github.com/baypogiMD/Student_t_Test)<br/>
+![Dengue Data Visualization (Part 1)](https://github.com/baypogiMD/Dengue-Data-Visualization)<br/>
+![Dengue Data Visualization (Part 2)](https://github.com/baypogiMD/Dengue-Data-Visualization-Part-2)<br/>
 
