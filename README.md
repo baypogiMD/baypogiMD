@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI in Healthcare | Data Scientist | Physician | Global Public Health | Blockchain in Healthcare
+## AI in Healthcare | Data Scientist | Physician | Global Public Health | Blockchain in Healthcare
 
 
 ## 🌐 Socials:
@@ -10,7 +10,22 @@ AI in Healthcare | Data Scientist | Physician | Global Public Health | Blockchai
 
 # 📊 GitHub Projects:
 ![AI Infection Dataset – Clinical Analytics & Explainable AI](https://github.com/baypogiMD/Infection_Prediction_and_Analytics)<br/>
+![Urinary Biomarkers for Pancreatic Cancer](https://github.com/baypogiMD/Urinary_Biomarkers_for_Pancreatic_Cancer)<br/>
+![Cancer Patients and Air Pollution](https://github.com/baypogiMD/Cancer_Patients_and_Air_Pollution)<br/>
+![Cancer Inhibitors – SQL & Machine Learning Analysis](https://github.com/baypogiMD/Cancer_Inhibitors_SQL_Machine_Learning)<br/>
+![CITE-seq Multimodal Analysis](https://github.com/baypogiMD/CITE-seq_Multimodal_Analysis)<br/>
+![Breast Cancer Survival Analysis](https://github.com/baypogiMD/Breast_Cancer_Survival_Analysis)<br/>
+![Healthcare Ransomware Risk Analytics](https://github.com/baypogiMD/Healthcare_Ransomware_Risk_Analytics)<br/>
+![Lung Cancer Risk Analysis](https://github.com/baypogiMD/Lung_Cancer)<br/>
+![Global CO₂ Emissions: Long-Term Trend Analysis](https://github.com/baypogiMD/Global_CO2_Emissions)<br/>
+![Pilippine Health Indicators Analysis](https://github.com/baypogiMD/Philippines_Health_indicators)<br/>
+![Gallstone Disease Risk Analysis](https://github.com/baypogiMD/Gallstone_Disease_Risk_Analysis)<br/>
+![Global Cancer Mortality Analysis](https://github.com/baypogiMD/Cancer_Mortality_Analysis)<br/>
+![Febrile Seizures](https://github.com/baypogiMD/Febrile_Seizures)<br/>
+![Liver Cancer Risk Prediction Using Clinical Features](https://github.com/baypogiMD/Liver_Cancer)<br/>
+![Blood Glucose Missingness Analysis](https://github.com/baypogiMD/Blood_Glucose_Analysis)<br/>
+![World Health Indicators Analysis (1999-2023)](https://github.com/baypogiMD/World_Health_Indicators_Analysis)<br/>
 
-![Urinary Biomarkers for Pancreatic Cancer]([https://nirzak-streak-stats.vercel.app/?user=baypogiMD&theme=dark&hide_border=false](https://github.com/baypogiMD/Urinary_Biomarkers_for_Pancreatic_Cancer))<br/>
+
 
 
