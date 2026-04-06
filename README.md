@@ -54,7 +54,7 @@
 ![Metro Manila Flood Prediction](https://github.com/baypogiMD/MetroManila_Flood_Prediction_2016-2020)<br/>
 ![Jollibee Store Location Analytics](https://github.com/baypogiMD/Jollibee_Business_Intelligence_and_Analytics)<br/>
 ![Urinalysis Data Analytics and Clinical Risk Modeling](https://github.com/baypogiMD/Urinalysis_data_analysis)<br/>
-![Melanoma versus Nonmelanoma Prediction](https://github.com/baypogiMD/MelanomaENV2)<br/>
+![MelanomaENV2 - Prediction of Dermoscopy Images using Artificial Intelligence](https://github.com/baypogiMD/MelanomaENV2)<br/>
 ![Kruskal-Wallis H test](https://github.com/baypogiMD/Kruskal-Wallis_H_test)<br/>
 ![Predicting-Dengue-Philippines](https://github.com/baypogiMD/Predicting-Dengue-Philippines)<br/>
 ![BARMM Data Challenge](https://github.com/baypogiMD/BARMM_Data_Challenge)<br/>
