@@ -1,9 +1,9 @@
 # 💫 About Me:
-## AI in Healthcare 🤖🧠
-## Data Scientist 💻📚
-## Physician 🩺💉
-## Global Public Health 🌐💊
-## Blockchain in Healthcare ⛓🔐
+### AI in Healthcare 🤖🧠
+### Data Scientist 💻📚
+### Physician 🩺💉
+### Global Public Health 🌐💊
+### Blockchain in Healthcare ⛓🔐
 
 
 ## 🌐 Socials:
